@@ -1,5 +1,5 @@
 {
-  "name": "𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓",
+  "name": "LIVE'S IA",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓",
+  "homepage": "https://github.com/BrunoSobrino/LIVE'S IA",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓.git"
+    "url": "git+https://github.com/BrunoSobrino/LIVE'S IA.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓/issues"
+    "url": "https://github.com/BrunoSobrino/LIVE'S IA/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

@@ -9,21 +9,21 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
+1.- https://www.instagram.com/clanlive.ff
 
-2.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
+2.- https://www.instagram.com/clanlive.ff
 
-3.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
+3.- https://www.instagram.com/clanlive.ff
 
-4.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
+4.- https://www.instagram.com/clanlive.ff
 
 > Alexn Team  :
 
-1.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF
+1.- https://www.instagram.com/clanlive.ff
 
-2.- https://chat.whatsapp.com/C31FNyuskxB7eiiCGaswWF`.trim();
+2.- https://www.instagram.com/clanlive.ff`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓`},
+    'document': {url: `https://github.com/BrunoSobrino/LIVE'S IA`},
     'mimetype': `application/${document}`,
     'fileName': `${tradutor.texto2}`,
     'fileLength': 99999999999999,
@@ -32,7 +32,7 @@ ${tradutor.texto1[1]}
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/BrunoSobrino/𝐔𝐧𝐊𝐧 - 𝐁𝐎𝐓',
+        'mediaUrl': 'https://github.com/BrunoSobrino/LIVE'S IA',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': `${tradutor.texto3}`,

@@ -55,7 +55,7 @@ async function start(file) {
   if (isRunning) return;
   isRunning = true;
 
-  say('LIVE'S IA\nBot', {
+  say('LIVE'S-BOT\nBot', {
     font: 'chrome',
     align: 'center',
     gradient: ['red', 'magenta'],

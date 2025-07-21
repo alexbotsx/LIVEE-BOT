@@ -26,7 +26,7 @@ if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${tradutor.texto1[0]} 
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `╭═══〘 ✯✯✯✯✯✯✯✯✯ 〙══╮
-║    ◉— *LIVE'S IA* —◉
+║    ◉— *LIVE'S-BOT* —◉
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡║
 ║➤ ${tradutor.texto1[1]} ${taguser}*
 ╰═══╡✯✯✯✯✯✯✯✯✯╞═══╯

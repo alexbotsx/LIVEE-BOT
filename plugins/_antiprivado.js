@@ -1,4 +1,4 @@
-// LIVE'S IA@BrunoSobrino - _antiprivado.js
+// LIVE'S-BOT@BrunoSobrino - _antiprivado.js
 
 export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) {
     const datas = global

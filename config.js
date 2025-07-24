@@ -29,11 +29,11 @@ global.prems = ['56929623057'];
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'LIVE'S-BOT';
-global.wm = 'LIVE'S-BOT';
-global.titulowm = 'LIVE'S-BOT';
-global.titulowm2 = `LIVE'S-BOT`
-global.igfg = 'LIVE'S-BOT';
+global.author = 'LIVEES-BOT';
+global.wm = 'LIVEES-BOT';
+global.titulowm = 'LIVEES-BOT';
+global.titulowm2 = `LIVEES-BOT`
+global.igfg = 'LIVEES-BOT';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -53,12 +53,12 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nLIVE'S-BOT`;
-global.gt = 'LIVE'S-BOT';
-global.mysticbot = 'LIVE'S-BOT';
+global.wm2 = `${dia} ${fecha}\nLIVEES-BOT`;
+global.gt = 'LIVEES-BOT';
+global.mysticbot = 'LIVEES-BOT';
 global.channel = 'https://whatsapp.com/channel/0029VaZ90V9EKyZGyqHKt61M';
-global.md = 'https://github.com/BrunoSobrino/LIVE'S-BOT';
-global.mysticbot = 'https://github.com/BrunoSobrino/LIVE'S-BOT';
+global.md = 'https://github.com/BrunoSobrino/LIVEES-BOT';
+global.mysticbot = 'https://github.com/BrunoSobrino/LIVEES-BOT';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';

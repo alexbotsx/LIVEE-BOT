@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Bruno Sobrino
-      (https://github.com/BrunoSobrino/LIVE'S-BOT)
+      (https://github.com/BrunoSobrino/LIVEES-BOT)
 */
 
 

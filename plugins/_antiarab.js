@@ -1,4 +1,4 @@
-// LIVE'S-BOT@BrunoSobrino - _antiarab.js
+// LIVEES-BOT@BrunoSobrino - _antiarab.js
 
 
 const handler = (m) => m;
